@@ -1,6 +1,6 @@
 # Relógio Digital com Fundo Ambientado
 
-https://www.youtube.com/watch?v=AumYSZ8Ydo8U
+https://github.com/DevZank/RelogioFundoAmbientado/assets/111926496/89431120-2616-415a-960e-4e5b60d0f4cf
 
 ### • Relógio digital
 
@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=AumYSZ8Ydo8U
 
 ## Link no Vercel
 
-<a href=""> Clique Aqui </a>
+<a href="https://relogio-fundo-ambientado.vercel.app"> Clique Aqui </a>
 
 ## Tecnologias
 
